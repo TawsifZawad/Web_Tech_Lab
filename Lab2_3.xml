@@ -1,0 +1,25 @@
+<Office>
+	<Information1:table>
+		<Information1:id>1</Information1:id>
+		<Information1:Name>Jhon Carter</Information1:Name>
+		<Information1:Address>H# 40, R#3, Motijheel, Dhaka</Information1:Address>
+		<Information1:Depertment>Sales</Information1:Depertment>
+		<Information1:Salary>20000</Information1:Salary>
+	</Information1:table>
+
+	<Information:table>
+		<Information2:id>2</Information2:id>
+		<Information2:Name>Bob MArshel</Information2:Name>
+		<Information2:Address>H# 40, R#3, Gulshan, Dhaka</Information2:Address>
+		<Information2:Depertment>Accounts</Information2:Depertment>
+		<Information2:Salary>12000</Information2:Salary>
+	</Information2:table>
+
+	<Information3:table>
+		<Information3:id>3</Information3:id>
+		<Information3:Name>Alo Vosh</Information3:Name>
+		<Information3:Address>H# 40, R#3, Banani, Dhaka</Information3:Address>
+		<Information3:Depertment>Human Resources</Information3:Depertment>
+		<Information3:Salary>30000</Information3:Salary>
+	</Information3:table>
+</Office>
