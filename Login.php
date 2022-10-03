@@ -1,23 +1,27 @@
-<!DOCTYPE html>
+
 <html>
-    <head>
-        <title>Login page</title>
-    </head>
-    
-    
-    <body>
-    <form method="post" action="Home.php">
-        <fieldset>
-            <legend>LOGIN</legend>
-            <label for="id">User ID</label>
-            <input type="number" name="id" id="id">
-            <br>
-            <label for="password">Password</label>
-            <input type="password" name="password" id="password">
-            <br>
-            <input type="submit" name="submit" value="Login">
-            <a href="Resistration.php">Register</a>
-        </fieldset>
-    </form>
-    </body>
+<head>
+	<title>Login Page</title>
+</head>
+<body>
+
+	<form action="logincheck.php" method="post">
+		
+		Name:<input type="text" name="name" value="" minlength="2">
+		<br><br>
+		
+		Email:<input type="email" name="email" value="">
+		<br><br>
+		
+		User ID:
+  		<br>
+  		<input type="text" name="idd" value="">
+		<br><br>
+		
+		
+  			<input type="submit">
+
+	</form>
+
+</body>
 </html>

@@ -3,11 +3,8 @@
     <head>
         <title>Registration Page</title>
     </head>
-
     
     <body>
-
-
     <form method="post" action="Login.php">
         <fieldset>
             <legend>REGISTRATION</legend>
